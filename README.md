@@ -1,7 +1,7 @@
  # 🧾 1.7-JavaAnnotations
 
 A complete set of exercises focused on Java annotations, both built-in and custom.
-This project demonstrates how to apply @Override, @Deprecated, and how to define and use custom annotations with Java Reflection
+This project demonstrates how to apply `@Override`, `@Deprecated`, and how to define and use custom annotations with Java Reflection
 
 ## 📄 Description - Exercise Statement
 This repository contains the full solution for Sprint 1 - Annotations of the Java programming track.
